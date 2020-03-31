@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Day1 Sample</string>
+    <string name="Hello_World">Hello World!</string>
+    <string name="welcome_title">Welcome to Android programming</string>
+</resources>
